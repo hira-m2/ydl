@@ -54,7 +54,7 @@ echo "export https_proxy=\"$sproxy\"" >> /usr/bin/ydl
 echo "" >> /usr/bin/ydl
 echo "" >> /usr/bin/ydl
 echo "#Go to Download directory" >> /usr/bin/ydl
-echo "cd ~/Downloads/youtube/" >> /usr/bin/ydl
+echo "cd ~/Downloads/" >> /usr/bin/ydl
 echo "" >> /usr/bin/ydl
 echo "" >> /usr/bin/ydl
 echo "#Retry Download until Download completed" >> /usr/bin/ydl
